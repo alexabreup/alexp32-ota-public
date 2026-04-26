@@ -4,5 +4,5 @@
   "sha256": "19e81309b10077733a0f54b0beeec630b56e4191bfdd3e6575c02fb1302a678d",
   "sizeBytes": 1137344,
   "minBatteryPct": 0,
-  "force": false
+  "force": true
 }
