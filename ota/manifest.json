@@ -1,7 +1,7 @@
 {
-  "version": "0.1.26",
-  "firmwareUrl": "https://raw.githubusercontent.com/alexabreup/alexp32-ota-public/main/ota/alexp32-wroom32-0.1.26.bin",
-  "sha256": "C417239175CD4B6F29A5B87C7BFF95F32961CC3C2D4B812C6A415213C8AC7E8B",
+  "version": "0.1.27",
+  "firmwareUrl": "https://raw.githubusercontent.com/alexabreup/alexp32-ota-public/main/ota/alexp32-wroom32-0.1.27.bin",
+  "sha256": "11D58EC09B00781DD749A6BBD13A94F7A112ED77C17299997FC605D29955FEA9",
   "sizeBytes": 1120864,
   "minBatteryPct": 1,
   "force": true
