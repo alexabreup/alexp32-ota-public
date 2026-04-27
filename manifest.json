@@ -1,8 +1,8 @@
 {
-  "version": "0.1.24",
-  "firmwareUrl": "https://alexandrepereiraportfolio.netlify.app/ota/alexp32-wroom32-0.1.24.bin",
-  "sha256": "3811B8596D96EF123BD9DFF96D9A78A2BB5A0ED6FB4F843E211D6970B33BF669",
-  "sizeBytes": 1120880,
+  "version": "0.1.25",
+  "firmwareUrl": "https://alexandrepereiraportfolio.netlify.app/ota/alexp32-wroom32-0.1.25.bin",
+  "sha256": "0495EA14DDEBECC02B335DBA3A5F0045FC487614C36593061EB6682DE049EC72",
+  "sizeBytes": 1120912,
   "minBatteryPct": 1,
   "force": true
 }
